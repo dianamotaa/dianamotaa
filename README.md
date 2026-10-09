@@ -1,8 +1,8 @@
-# Diana-Mota
+
 # Olá, sou a Diana Mota 💻 ❤️
 
 Estudante de Ciências da Computação na Universidade do Minho.
-Gosto de tudo o que envolve estatística, bases de dados e análise de números ❤️
+Gosto de tudo o que envolve estatística, bases de dados e análise de dados ❤️
 
 ## Linguagens
 
